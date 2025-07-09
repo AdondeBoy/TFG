@@ -1,0 +1,12 @@
+Usar venv de Python 3.7.9, IMPORTANTE 3.7.9
+Instalar CUDA 11.2 y cuDNN 8.1
+	descargar la versión 8.1 para CUDA 11.2, copiar contenidos en directorio de CUDA 11.2 (en ProgramFiles/Nvidia algo...)
+	Si al instalar CUDA dice lo de newer version of Frameview SDK, desinstalar NVIDIA Frameview SDK
+Instalar jupyter en venv (PyCharm lo indica en un mensaje, hay que darle a "install Jupyter"
+
+En \MusicVAE-implementation\github\magenta\magenta\models\music_vae
+sustituir music_vae_train por la copia en el root folder del repo MusicVAE-implementation
+
+Modificar en music_vae_train y en music_vae_generate el import de Configs, sustituir por:
+from . import configs
+para evitar que use el de la librería del venv

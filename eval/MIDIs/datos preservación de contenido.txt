@@ -1,0 +1,28 @@
+Bad Boys
+0.9215
+Canned Heat
+0.7796
+He's a Pirate
+0.9680
+Jump
+0.9724
+Korobeiniki
+0.7876
+One Step Beyond
+0.9453
+Rondo Alla Turca
+0.7843
+Roxanne
+0.8407
+Stayin' Alive
+0.9867
+The Entertainer
+0.9664
+Thriller
+0.9523
+Toxic
+0.9717
+We Are The Champions
+0.9717
+Yolanda, You Learn
+0.9313

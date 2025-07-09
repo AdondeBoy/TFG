@@ -1,0 +1,83 @@
+Bad Boys
+- Time-Pitch Fit: 0.8512564096107921
+- Onset-Duration Fit: 0.982305236298199
+- Onset-Velocity Fit: 0.7082212825527292
+- Onset-Drum Fit: 0.5044671290904155
+
+Canned Heat
+- Time-Pitch Fit: 0.8394473076503044
+- Onset-Duration Fit: 0.9869331156540113
+- Onset-Velocity Fit: 0.9467724199666031
+- Onset-Drum Fit: 0.3257082237811193
+
+He's a Pirate
+- Time-Pitch Fit: 0.7654535054112046
+- Onset-Duration Fit: 0.8554302993171394
+- Onset-Velocity Fit: 0.4954593728440646
+- Onset-Drum Fit: nan
+
+Jump
+- Time-Pitch Fit: 0.8125423375376903
+- Onset-Duration Fit: 0.9856954126891888
+- Onset-Velocity Fit: 0.95511305938943
+- Onset-Drum Fit: 0.09791805999431902
+
+Korobeiniki
+- Time-Pitch Fit: 0.6444116943538105
+- Onset-Duration Fit: 0.1466151961358313
+- Onset-Velocity Fit: 0.3655124275347661
+- Onset-Drum Fit: nan
+
+One Step Beyond
+- Time-Pitch Fit: 0.6432330873849846
+- Onset-Duration Fit: 0.583540029970018
+- Onset-Velocity Fit: 0.20645645597587392
+- Onset-Drum Fit: 0.3249173498439759
+
+Rondo Alla Turca
+- Time-Pitch Fit: 0.7140049229587931
+- Onset-Duration Fit: 0.9815772787112624
+- Onset-Velocity Fit: 0.6217149398814633
+- Onset-Drum Fit: nan
+
+Roxanne
+- Time-Pitch Fit: 0.8082288756875998
+- Onset-Duration Fit: 0.9648998830121643
+- Onset-Velocity Fit: 0.6998772261423112
+- Onset-Drum Fit: 0.38712918381850847
+
+Stayin' Alive
+- Time-Pitch Fit: 0.8826087521596423
+- Onset-Duration Fit: 0.9858182345747086
+- Onset-Velocity Fit: 0.5826368296357137
+- Onset-Drum Fit: 0.18669162212470802
+
+The Entertainer
+- Time-Pitch Fit: 0.5855373180714234
+- Onset-Duration Fit: 0.7671696355364896
+- Onset-Velocity Fit: 0.4401690678089665
+- Onset-Drum Fit: nan
+
+Thriller
+- Time-Pitch Fit: 0.7768761075949253
+- Onset-Duration Fit: 0.9212172388536587
+- Onset-Velocity Fit: 0.36326922867586164
+- Onset-Drum Fit: 0.31436654143045994
+
+Toxic
+- Time-Pitch Fit: 0.6512795953894712
+- Onset-Duration Fit: 0.8262795434983036
+- Onset-Velocity Fit: 0.4877461170643953
+- Onset-Drum Fit: nan
+
+We Are The Champions
+- Time-Pitch Fit: 0.658627255897938
+- Onset-Duration Fit: 0.7916139294946567
+- Onset-Velocity Fit: 0.803702214160669
+- Onset-Drum Fit: 0.367414145635259
+
+Yolanda, You Learn
+- Time-Pitch Fit: 0.8136714987344892
+- Onset-Duration Fit: 0.9470183720157193
+- Onset-Velocity Fit: 0.8823530112790141
+- Onset-Drum Fit: 0.1410840461673375
